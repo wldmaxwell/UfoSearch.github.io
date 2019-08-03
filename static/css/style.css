@@ -1,0 +1,35 @@
+.jumbotron {
+  text-align: center;
+  background-image: url(../images/nasa.jpg);
+  background-size: cover;
+  color: aliceblue;
+}
+
+.row {
+  margin-left: 50pt;
+
+}
+.form-control {
+  width: 60%;
+  margin: auto;
+}
+
+body {
+  background-color: rgb(219, 213, 213);
+  
+}
+
+p {
+  font-style: italic;
+}
+
+#jumbo_p{
+  color: orangered;
+}
+.form-control {
+  display: inline-block;
+}
+
+label {
+  text-align: center;
+}
